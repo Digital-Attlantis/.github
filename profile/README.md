@@ -4,7 +4,7 @@
 
 Olá, sobrevivente da superfície. Senta que lá vem textão.
 
-## 🫂 O CONVITE
+##💌 O CONVITE
 
 Estou reunindo um grupo. Não tenho pretensões específicas ainda — só a certeza de que fazer isso sozinho é recipe for disaster.
 
