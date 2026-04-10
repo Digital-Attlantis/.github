@@ -74,7 +74,7 @@ O segundo caminho é mais imediato. O primeiro é o sonho. **Vamos pelos dois.**
 
 Fiz sozinho. Bonitinho. **Inútil sem companhia.**
 
-## 🫵 O PRÓXIMO PASSO
+## 👣 O PRÓXIMO PASSO
 
 Não é construir. É **criar o grupo**.
 
