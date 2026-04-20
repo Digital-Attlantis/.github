@@ -91,13 +91,13 @@ Escrevi **20 páginas** com o essencial:
 - **O que a ciência já permite fazer lá embaixo** (engenharia, biologia, energia, direito do mar)
 - **Que tipo de maluco estou procurando** (spoiler: você, talvez)
 
-📎 **Link para o livro:** [inserir URL]
+📎 **Link para o livro:** [https://github.com/Digital-Attlantis/Library/blob/main/Manual-Estrutural.txt]
 
 ## 🛠️ O GITHUB
 
 Todo código, documento, esboço e loucura organizada está aqui:
 
-📎 **GitHub do projeto:** [inserir URL]
+📎 **GitHub do projeto:** [https://github.com/Digital-Attlantis/DevArchive]
 
 ## 💱 MOEDA OFICIAL ACEITA
 
